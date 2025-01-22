@@ -1,0 +1,18 @@
+/* Scroll to Top Button */
+#scrollToTopBtn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #65E73C;
+    color: white;
+    border: none;
+    padding: 15px;
+    border-radius: 5px;
+    font-size: 18px;
+    display: none;
+    cursor: pointer;
+}
+
+#scrollToTopBtn:hover {
+    background-color: #AAC02B;
+}
